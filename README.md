@@ -1,4 +1,4 @@
-# Exoskeleton
+# Inverse Dynamic on Lower Extremity Exoskeleton
 
 February 2013 - May 2013
 
